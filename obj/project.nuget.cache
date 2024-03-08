@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WumZY5isfVUauwuws9D/rHQLv3A3chmQii5XYNOUdrQNePEX7uSaZEYupJEDAsr7btqQc0dEQ7zRtVYWQ888ZA==",
+  "dgSpecHash": "x/dQXpphZWW6iSdFiioKJ0p61zZ+qtouP+KNsQVGZUCyruPI4AHKbKfnYIOYqAafU8Vx4AiYuaKqo949IZ2I1g==",
   "success": true,
-  "projectFilePath": "/Users/user/Projects/emailmanager/emailmanager/emailmanager.csproj",
+  "projectFilePath": "/Users/user/Desktop/Projects/emailmanager/emailmanager/emailmanager.csproj",
   "expectedPackageFiles": [
     "/Users/user/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/user/.nuget/packages/microsoft.aspnetcore.openapi/7.0.14/microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",

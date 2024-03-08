@@ -1491,11 +1491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Projects/emailmanager/emailmanager/emailmanager.csproj",
+      "projectUniqueName": "/Users/user/Desktop/Projects/emailmanager/emailmanager/emailmanager.csproj",
       "projectName": "emailmanager",
-      "projectPath": "/Users/user/Projects/emailmanager/emailmanager/emailmanager.csproj",
+      "projectPath": "/Users/user/Desktop/Projects/emailmanager/emailmanager/emailmanager.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Projects/emailmanager/emailmanager/obj/",
+      "outputPath": "/Users/user/Desktop/Projects/emailmanager/emailmanager/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.nuget/NuGet/NuGet.Config"
