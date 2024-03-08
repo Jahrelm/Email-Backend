@@ -86,3 +86,9 @@
 /Users/user/Desktop/Projects/emailmanager/emailmanager/obj/Debug/net7.0/emailmanager.pdb
 /Users/user/Desktop/Projects/emailmanager/emailmanager/obj/Debug/net7.0/emailmanager.genruntimeconfig.cache
 /Users/user/Desktop/Projects/emailmanager/emailmanager/obj/Debug/net7.0/ref/emailmanager.dll
+/Users/user/Desktop/Projects/emailmanager/emailmanager/bin/Debug/net7.0/System.Web.Cors.dll
+/Users/user/Desktop/Projects/emailmanager/emailmanager/bin/Debug/net7.0/System.Net.Http.Formatting.dll
+/Users/user/Desktop/Projects/emailmanager/emailmanager/bin/Debug/net7.0/System.Web.Http.dll
+/Users/user/Desktop/Projects/emailmanager/emailmanager/bin/Debug/net7.0/System.Web.Http.Cors.dll
+/Users/user/Desktop/Projects/emailmanager/emailmanager/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/user/Desktop/Projects/emailmanager/emailmanager/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
